@@ -1,0 +1,8 @@
+---
+title: "Brussels Sprouts Fetch"
+type: "challenge"
+description: "Fetch a random brussels sprouts recipe"
+tags: "javascript, react, react-forms, fetch"
+ignore:
+- "node_modules/"
+- "react-simple-blog.md"
