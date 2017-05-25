@@ -1,9 +1,9 @@
 import 'babel-polyfill';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Test from './components/Test';
+import SproutsContainer from './containers/SproutsContainer';
 
 ReactDOM.render(
-  <Test />,
+  <SproutsContainer />,
   document.getElementById('app')
 )
